@@ -1,0 +1,11 @@
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.2/RabbitMQSample.Consumer.deps.json
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.2/RabbitMQSample.Consumer.runtimeconfig.json
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.2/RabbitMQSample.Consumer.runtimeconfig.dev.json
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.2/RabbitMQSample.Consumer.dll
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.2/RabbitMQSample.Consumer.pdb
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.2/RabbitMQSample.Consumer.csprojAssemblyReference.cache
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.2/RabbitMQSample.Consumer.csproj.CoreCompileInputs.cache
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.2/RabbitMQSample.Consumer.AssemblyInfoInputs.cache
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.2/RabbitMQSample.Consumer.AssemblyInfo.cs
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.2/RabbitMQSample.Consumer.dll
+/home/feyyaz/Masaüstü/RabbitMQSample/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.2/RabbitMQSample.Consumer.pdb
